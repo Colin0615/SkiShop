@@ -1,158 +1,155 @@
-# EU Compliance Checklist for [BRANDNAME]
+# [BRANDNAME] EU合规清单
 
-## Priority 1: Must-Have Before Launch
+## 优先级1：上线前必须完成
 
-### GPSR (General Product Safety Regulation)
-*Applies since 13 December 2024 to all consumer products sold in the EU*
+### GPSR（General Product Safety Regulation / 通用产品安全法规）
+*自2024年12月13日起适用于所有在EU销售的消费品*
 
-- [ ] **Designate EU Responsible Person** — Your Irish company fulfills this role
-  - Company name, postal address, and email must appear on product listings
-  - This person is the contact point for EU market surveillance authorities
-- [ ] **Product risk assessment** — Document potential risks for each product:
-  - Chemical risks: ensure fabrics comply with REACH (no banned substances)
-  - Physical risks: no sharp edges, secure zippers, no choking hazards on toggles
-  - Flammability: standard textile flammability requirements
-- [ ] **Technical documentation** — Keep on file for 10 years:
-  - Product description and specifications
-  - Risk assessment
-  - Test reports (from supplier or third-party lab)
-  - List of applied standards
-- [ ] **Product page information** — Each listing must show:
-  - Manufacturer name and contact details
-  - EU Responsible Person name, address, email
-  - Product type and unique identifier (SKU)
-  - Safety information/warnings where applicable
-  - Image of the product
+- [ ] **指定EU境内负责人（EU Responsible Person）** — 你的爱尔兰公司可以担任
+  - 公司名称、通信地址、邮箱必须出现在产品listing上
+  - 此人是EU市场监管机构的联系点
+- [ ] **产品风险评估（Product Risk Assessment）** — 为每个产品记录潜在风险：
+  - 化学风险：确保面料符合REACH法规（不含禁用物质）
+  - 物理风险：无锋利边缘，拉链牢固，绳扣不构成窒息危险
+  - 易燃性：符合标准纺织品易燃性要求
+- [ ] **技术文档（Technical Documentation）** — 保存10年：
+  - 产品描述和规格
+  - 风险评估报告
+  - 检测报告（来自供应商或第三方实验室）
+  - 适用标准清单
+- [ ] **产品页面信息** — 每个listing必须显示：
+  - 制造商名称和联系方式
+  - EU境内负责人姓名、地址、邮箱
+  - 产品类型和唯一标识符（SKU）
+  - 安全信息/警告（如适用）
+  - 产品图片
 
-### Textile Labelling (EU Regulation 1007/2011)
-*Applies to all textile products sold in the EU*
+### 纺织品标签（EU Regulation 1007/2011 / EU纺织品标签法规）
+*适用于所有在EU销售的纺织品*
 
-- [ ] **Fibre composition label** — Must be on every garment
-  - Example: "Shell: 100% Polyester. Lining: 100% Polyester. Insulation: 100% Polyester"
-  - Must list ALL fibres by weight percentage
-  - Must be permanently attached to the garment (sewn-in label)
-- [ ] **Language requirements** — Labels must be in the official language(s) of the target market:
-  - France: French required
-  - Ireland: English sufficient
-  - Germany: German required (when you expand)
-  - **Action**: Ask your supplier to sew in multi-language labels from the start
-- [ ] **Care instructions** — Washing symbols (ISO 3758) are universal, but text instructions should be in local language
-- [ ] **Country of origin** — "Made in China" must be clearly stated
+- [ ] **纤维成分标签（Fibre Composition Label）** — 每件衣服必须有
+  - 示例："Shell: 100% Polyester. Lining: 100% Polyester. Insulation: 100% Polyester"
+  - 必须按重量百分比列出所有纤维
+  - 必须永久附着在服装上（缝制标签）
+- [ ] **语言要求** — 标签必须使用目标市场的官方语言：
+  - 法国：必须法语
+  - 爱尔兰：英语即可
+  - 德国：必须德语（扩展时）
+  - **行动建议**：从一开始就要求供应商缝制多语言标签
+- [ ] **洗涤说明** — 洗涤符号（ISO 3758）全球通用，但文字说明需要用当地语言
+- [ ] **原产国** — "Made in China" 必须明确标注
 
-### IOSS / VAT Registration
-*For selling to EU consumers from outside the EU (China direct shipping)*
+### IOSS / VAT（增值税）注册
+*从EU境外（中国直发）向EU消费者销售时需要*
 
-- [ ] **Register for IOSS** — Required for consignments ≤€150 shipped from outside the EU
-  - Register via Revenue (Ireland) as your EU member state of identification
-  - Alternatively, use a fiscal representative or Shopify Tax service
-  - Your IOSS number must be provided to the shipping carrier
-- [ ] **Understand the €150 limit** — IOSS only applies to single consignments with intrinsic value ≤€150
-  - Your jacket at €129 = within IOSS
-  - A jacket + pants bundle at €199 = may exceed IOSS threshold
-  - For orders >€150: either split shipments or arrange DDP (Delivered Duty Paid)
-- [ ] **Charge correct VAT per destination country**:
-  - France: 20%
-  - Ireland: 23%
-  - Germany: 19%
-  - Austria: 20%
-  - Display VAT-inclusive prices on website (EU requirement)
-- [ ] **OSS registration** — Required when EU cross-border B2C sales exceed €10,000/year
-  - Register via Revenue (Ireland) for Union OSS
-  - File quarterly OSS returns
+- [ ] **注册IOSS（Import One-Stop Shop / 进口一站式服务）** — 从EU外发货且单票≤€150时必须
+  - 通过爱尔兰税务局（Revenue）注册，爱尔兰作为你的EU识别成员国
+  - 或者使用税务代理人（Fiscal Representative）或Shopify Tax服务
+  - 你的IOSS号码必须提供给物流承运商
+- [ ] **理解€150限额** — IOSS仅适用于内在价值≤€150的单票货物
+  - 雪服€129 = 在IOSS范围内 ✅
+  - 雪服+雪裤套装€199 = 可能超出IOSS门槛 ❌
+  - 超过€150的订单：要么拆分发货，要么安排DDP（完税交货）
+- [ ] **按目的国收取正确的VAT税率**：
+  - 法国：20%
+  - 爱尔兰：23%
+  - 德国：19%
+  - 奥地利：20%
+  - 网站上必须显示含税价格（EU法律要求）
+- [ ] **OSS注册（One-Stop Shop / 一站式服务）** — EU跨境B2C年销售额超过€10,000时需要
+  - 通过爱尔兰税务局注册Union OSS
+  - 每季度提交OSS申报
 
-### EU Consumer Rights
-*Consumer Rights Directive 2011/83/EU*
+### EU消费者权益（Consumer Rights Directive 2011/83/EU / 消费者权益指令）
 
-- [ ] **14-day withdrawal right** — Customers can return items within 14 days of delivery, no reason needed
-  - Items must be in original condition (tried on is OK, worn skiing is not)
-  - You must refund within 14 days of receiving the returned goods
-  - You may withhold refund until goods are received back
-- [ ] **2-year legal guarantee** — Products must be free from defects for 2 years
-  - Within first year: defect is presumed to have existed at delivery (burden on you)
-  - Year 2: customer must prove defect existed at delivery
-- [ ] **Pre-purchase information** — Before checkout, customer must see:
-  - Total price including VAT
-  - Delivery costs
-  - Right of withdrawal information
-  - Complaint handling procedure
-  - Your company identity and contact details
+- [ ] **14天无理由退货权** — 客户可在收货后14天内退货，无需说明理由
+  - 商品须保持原始状态（试穿可以，穿去滑雪过了不行）
+  - 收到退货后14天内必须退款
+  - 可以在收到退货之前暂不退款
+- [ ] **2年法定质保** — 产品在2年内不得有缺陷
+  - 第一年内：缺陷被推定为交付时即存在（举证责任在你）
+  - 第二年：客户需证明缺陷在交付时即存在
+- [ ] **购买前信息披露** — 结账前客户必须看到：
+  - 含VAT总价
+  - 配送费用
+  - 退货权说明
+  - 投诉处理程序
+  - 你的公司身份和联系方式
 
-### GDPR Compliance
-*General Data Protection Regulation*
+### GDPR合规（General Data Protection Regulation / 通用数据保护条例）
 
-- [ ] **Privacy policy** — Published on website (see content/pages/privacy-policy.md)
-- [ ] **Cookie consent banner** — Must be shown before non-essential cookies load
-  - Essential cookies (cart, login): no consent needed
-  - Analytics (GA4): consent required
-  - Marketing (TikTok/Meta Pixel): consent required
-- [ ] **Data processing records** — Maintain a record of what data you collect and why
-- [ ] **Newsletter consent** — Double opt-in recommended (required in some EU countries like Germany)
+- [ ] **隐私政策** — 在网站上发布（见 content/pages/privacy-policy.md）
+- [ ] **Cookie同意横幅** — 必须在加载非必要Cookie前显示
+  - 必要Cookie（购物车、登录）：无需同意
+  - 分析工具（GA4）：需要同意
+  - 营销工具（TikTok/Meta Pixel）：需要同意
+- [ ] **数据处理记录** — 维护一份记录：你收集了什么数据、为什么收集
+- [ ] **邮件订阅同意** — 建议使用双重确认（Double Opt-in），在某些EU国家（如德国）是强制要求
 
 ---
 
-## Priority 2: Recommended Before Scale
+## 优先级2：规模化前建议完成
 
-### REACH Compliance
-*Registration, Evaluation, Authorisation and Restriction of Chemicals*
+### REACH合规（Registration, Evaluation, Authorisation and Restriction of Chemicals / 化学品注册、评估、授权和限制法规）
 
-- [ ] **Request REACH declaration from supplier** — Confirms the product doesn't contain restricted substances
-- [ ] **Key substances to check in ski wear**:
-  - PFC/PFAS (used in DWR waterproof coatings) — increasingly restricted in EU
-  - Azo dyes — banned if they release certain amines
-  - Nickel — in metal buttons, zippers, snaps (limited by REACH)
-  - Formaldehyde — in fabric finishes (limited concentrations)
-- [ ] **Ask supplier**: "Do you have an SGS or Intertek test report for REACH Annex XVII compliance?"
+- [ ] **向供应商索取REACH声明** — 确认产品不含受限物质
+- [ ] **滑雪服需要重点检查的物质**：
+  - PFC/PFAS（用于DWR防泼水涂层）——EU正在逐步限制
+  - 偶氮染料（Azo dyes）——若释放特定胺类则禁用
+  - 镍（Nickel）——金属纽扣、拉链、按扣中（REACH限量）
+  - 甲醛（Formaldehyde）——面料后整理中（限量浓度）
+- [ ] **问供应商**："你们有SGS或Intertek的REACH Annex XVII合规测试报告吗？"
 
-### Product Liability Insurance
-- [ ] **Get a quote** — Covers you if a product causes injury (e.g., zipper failure, allergic reaction)
-- [ ] **Typical cost**: €300-800/year for small e-commerce businesses
-- [ ] **Why it matters**: Even if unlikely, one serious incident without insurance could end the business
+### 产品责任保险（Product Liability Insurance）
+- [ ] **获取报价** — 覆盖产品造成伤害的风险（如拉链故障、过敏反应）
+- [ ] **典型费用**：小型电商€300-800/年
+- [ ] **为什么重要**：虽然概率低，但一次没有保险的严重事故可能直接搞垮生意
 
-### Business Name Registration (CRO)
-- [ ] **Register if brand name ≠ company legal name** — Mandatory under Companies Act 2014
-- [ ] **Via CRO CORE portal** — ~€40
-- [ ] **Must be done within 1 month** of adopting the business name
-
----
-
-## Priority 3: Not Needed Now (But Keep in Mind)
-
-### CE Marking
-- [ ] **NOT required for standard ski clothing** that is marketed as recreational apparel
-- [ ] **ONLY required if you claim PPE (Personal Protective Equipment) function**:
-  - Do NOT use words like "protects", "impact-resistant", "armor", "safety" in product descriptions
-  - Stick to: "waterproof", "warm", "breathable", "comfortable"
-- [ ] If you ever add products with protective claims (back protectors, helmets), CE is mandatory
-
-### EU Ecolabel / Sustainability Certifications
-- [ ] Nice to have for marketing, not legally required
-- [ ] Consider for Phase 2 if targeting environmentally-conscious consumers
-- [ ] Options: OEKO-TEX, bluesign, EU Ecolabel
+### 商业名称注册（CRO / 公司注册处）
+- [ ] **如果品牌名≠公司法律名称，则需注册** — 爱尔兰《2014年公司法》强制要求
+- [ ] **通过CRO CORE门户网站办理** — 约€40
+- [ ] **必须在启用商业名称后1个月内完成**
 
 ---
 
-## Key Dates
+## 优先级3：现在不需要（但心里有数）
 
-| Date | What | Impact |
-|------|------|--------|
-| Already in effect | GPSR | All product listings must comply |
-| Already in effect | GDPR, Consumer Rights | Website must comply |
-| 1 July 2026 | €3 customs duty on imports ≤€150 | Add ~€3 to cost per item |
-| Nov 2026 (est.) | Additional EU handling fee | May add ~€2 per item |
-| ~2028 | EU Customs Data Hub | Full customs tariffs on all imports (replaces €3 flat rate) |
+### CE标志（CE Marking）
+- [ ] **标准滑雪服不需要CE标志** — 只要作为休闲运动服销售
+- [ ] **只有声称PPE（个人防护装备）功能时才需要**：
+  - 产品描述中不要使用"protects"（保护）、"impact-resistant"（抗冲击）、"armor"（护甲）、"safety"（安全）等词
+  - 坚持使用："waterproof"（防水）、"warm"（保暖）、"breathable"（透气）、"comfortable"（舒适）
+- [ ] 如果将来增加有防护功能的产品（背部护具、头盔），CE是强制的
+
+### EU生态标签 / 可持续性认证
+- [ ] 有利于营销，但不是法律要求
+- [ ] 可以在第二阶段考虑，如果瞄准环保消费者
+- [ ] 选项：OEKO-TEX、bluesign、EU Ecolabel
 
 ---
 
-## Supplier Requirements Checklist
+## 关键日期
 
-When contacting suppliers on 1688 or Alibaba, request the following:
+| 日期 | 事项 | 影响 |
+|------|------|------|
+| 已生效 | GPSR（通用产品安全法规） | 所有产品listing必须合规 |
+| 已生效 | GDPR、消费者权益指令 | 网站必须合规 |
+| 2026年7月1日 | ≤€150进口商品加收€3关税 | 每件成本增加约€3 |
+| 2026年11月（预计） | EU额外处理费 | 每件可能增加约€2 |
+| ~2028年 | EU海关数据中心上线 | 所有进口商品全面征收关税（替代€3统一费率） |
 
-- [ ] Product specification sheet (waterproof rating, breathability, materials)
-- [ ] Fibre composition (exact percentages for labelling)
-- [ ] REACH compliance declaration or SGS/Intertek test report
-- [ ] Photos of actual product (not just 3D renders)
-- [ ] Sample availability and cost
-- [ ] MOQ for dropshipping (ideally 1 piece)
-- [ ] Shipping options to EU (carriers, estimated days, cost per piece)
-- [ ] Can they sew custom labels? (brand label + multi-language care/composition label)
-- [ ] DWR type: PFC-free? (increasingly important for EU compliance)
+---
+
+## 联系供应商时的需求清单
+
+在1688或阿里巴巴上联系供应商时，要求提供以下信息：
+
+- [ ] 产品规格表（防水指数、透气性、材料）
+- [ ] 纤维成分（精确百分比，用于标签）
+- [ ] REACH合规声明或SGS/Intertek测试报告
+- [ ] 实物照片（不只是3D渲染图）
+- [ ] 样品是否可提供及费用
+- [ ] 一件代发的最小起订量MOQ（理想情况是1件）
+- [ ] 发往EU的物流方案（承运商、预计天数、每件成本）
+- [ ] 能否缝制定制标签？（品牌标签+多语言洗涤/成分标签）
+- [ ] DWR类型：是否无PFC？（对EU合规越来越重要）

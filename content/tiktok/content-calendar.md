@@ -1,195 +1,205 @@
-# [BRANDNAME] TikTok Content Calendar
+# [BRANDNAME] TikTok 内容日历
 
-## Strategy Overview
+## 策略概览
 
-**Goal**: Build brand awareness and drive traffic to the Shopify store via organic TikTok content + targeted paid ads.
+**目标**：通过TikTok自然流量+付费投放，建立品牌认知并为Shopify独立站引流。
 
-**Account**: TikTok Business Account
-**Posting Frequency**: 5-7 posts/week (daily ideal, minimum 5)
-**Content Language**: English (with French captions/subtitles for Phase 1 market)
-
----
-
-## Content Mix (Monthly)
-
-| Content Type | % of Posts | Description |
-|-------------|-----------|-------------|
-| **Price Comparison** | 30% | "€129 vs €400 — same mountain, same specs" |
-| **Product Showcase** | 25% | Unboxing, try-on, detail shots, fabric tests |
-| **Skiing POV/Lifestyle** | 20% | GoPro footage, mountain views, apreski vibes |
-| **Educational** | 15% | "How to choose a ski jacket", "What does 10,000mm mean?" |
-| **UGC/Community** | 10% | Customer clips, reposts, duets |
+**账号类型**：TikTok Business Account（企业号）
+**发布频率**：每周5-7条（理想状态每天发，最少5条）
+**内容语言**：英文为主（第一阶段市场加法语字幕/说明文字）
 
 ---
 
-## Monthly Calendar
+## 内容配比（每月）
 
-### August — Pre-Season Warm-Up (4-5 posts/week)
-
-**Goal**: Start building audience. Nobody's buying yet, but they're dreaming.
-
-| Week | Posts | Content Ideas |
-|------|-------|--------------|
-| Week 1 | 4 | "POV: You just booked your ski trip and now need gear" / "Rating ski jacket brands from € to €€€€" / "Why I'm never paying €400 for a ski jacket again" / Brand intro: who we are, why we exist |
-| Week 2 | 5 | "What does waterproof rating actually mean? (explained in 30 sec)" / "The ski jacket iceberg: what brands don't want you to know" / BTS: unboxing samples from our factory / "Things I wish I knew before my first ski trip" / Trending audio + ski aesthetic reel |
-| Week 3 | 4 | "How to layer for skiing (without overheating)" / "POV: Your friends spend €500 on ski gear and you spent €129" / Color reveal: this season's collection / "€129 jacket waterproof test" (pour water on it) |
-| Week 4 | 5 | "Ski trip packing list 2026/27" / Outfit of the day: full ski look for under €250 / "What your ski jacket brand says about you" / Customer poll: which color should we launch? / Recap reel with best content this month |
-
-**Key hashtags**: #skiseason #skitok #skiprep #skioutfit #winteriscoming
-
-### September — Building Anticipation (5-6 posts/week)
-
-**Goal**: Convert awareness into email signups and website visits. Push early bird pricing.
-
-| Week | Posts | Content Ideas |
-|------|-------|--------------|
-| Week 1 | 5 | "Early bird alert: 15% off everything until October" / "Side by side: our €129 jacket vs [competitor] €400 jacket" / "3 things to check before buying ANY ski jacket" / GRWM: getting ready for a ski trip / Reply to comments from last month |
-| Week 2 | 6 | "POV: opening your [BRANDNAME] package" (unboxing) / "The REAL cost of a ski jacket (brand markup exposed)" / Quick try-on of all colours / "We tested our jacket in the rain for 2 hours — here's what happened" / "Where to ski in Europe on a budget" / Trending sound + ski content |
-| Week 3 | 5 | "Your ski trip essentials under €300 (full outfit)" / Detail shots: zippers, pockets, hood, wrist cuffs / "How we keep prices this low (no middlemen, DTC explained)" / "Rating European ski resorts" / Customer question Q&A |
-| Week 4 | 5 | "Last chance for early bird pricing" / "Which size should you get? (size guide walkthrough)" / Behind the scenes: how we test our gear / "October is coming — are you ready?" teaser / Month recap + best performers |
-
-**Key hashtags**: #skigear #affordableskiwear #skiseason2027 #earlybird #skijacket
-
-### October — Launch Push (Daily posting, 7/week)
-
-**Goal**: SALES. This is when people start buying. Maximum content output.
-
-| Week | Posts | Content Ideas |
-|------|-------|--------------|
-| Week 1 | 7 | Launch announcement / Customer review #1 / "Why this is the only ski jacket you need" / Price comparison with 3 brands / GRWM for a ski trip / "Free shipping this week" push / Trending format adaptation |
-| Week 2 | 7 | "First customers are getting their packages!" / Unboxing reactions (real or staged) / "10 things you need for your ski trip" / Fabric close-up / Social proof: order count milestone / "Gift guide: ski gear under €150" / User duet/reaction |
-| Week 3 | 7 | "POV: wearing [BRANDNAME] on the slopes for the first time" / Technical specs explained simply / "Black Friday preview" teaser / Customer photos/videos repost / Holiday gift idea angle / "How to care for your ski jacket" / Weekend ski content |
-| Week 4 | 7 | Halloween ski content / "November deals dropping soon" / Review roundup / "Why our customers switch from [competitor]" / BTS: packing orders / FAQ video / Week recap |
-
-### November — Peak Season (Daily, 7-10/week including stories)
-
-**Goal**: Maximum sales volume. Black Friday push.
-
-- **Week 1-2**: Customer testimonials, real skiing footage, urgency messaging
-- **Week 3**: Black Friday teaser content (countdown)
-- **Week 4**: Black Friday / Cyber Monday SALE — post 2-3x daily
-  - "Black Friday: 20% off everything"
-  - "Most popular items selling fast"
-  - "Last 24 hours" countdown
-
-### December — Holiday Rush (Daily, 7/week)
-
-**Goal**: Gift purchases + last-minute buyers.
-
-- **Week 1-2**: "Gift the slopes" angle, "Last order dates for Christmas delivery"
-- **Week 3**: "Still time to order!" + express shipping push
-- **Week 4**: Christmas content, "New Year ski trip prep"
-
-### January — New Year Push (5-7/week)
-
-**Goal**: New Year's resolution skiers + January sales.
-
-- "New year, new slopes" messaging
-- January clearance: "Winter sale — up to 25% off"
-- Content from the season: real customer skiing footage
-- "Planning your February ski trip?"
-
-### February — Late Season (4-5/week)
-
-**Goal**: Last push + season wrap-up.
-
-- "Last chance to gear up this season"
-- End-of-season sale
-- "Thank you" to community
-- Collect feedback: "What should we make next season?"
-- Teaser: "See you next winter" with email signup CTA
-
-### March — Season Wind-Down (2-3/week)
-
-**Goal**: Final clearance + collect user feedback + start planning next season.
-
-- Final clearance sale
-- "Season highlights" compilation
-- Customer appreciation posts
-- Survey: "What do you want to see next year?"
+| 内容类型 | 占比 | 说明 |
+|---------|------|------|
+| **价格对比** | 30% | "€129 vs €400——同一座山，同样的参数" |
+| **产品展示** | 25% | 开箱、试穿、细节特写、面料测试 |
+| **滑雪POV/生活方式** | 20% | GoPro视角、雪山风景、après-ski（滑雪后社交）氛围 |
+| **知识科普** | 15% | "怎么选雪服"、"10,000mm防水指数什么意思？" |
+| **UGC/社区互动** | 10% | 客户片段、转发、duet合拍 |
 
 ---
 
-## Content Script Templates
+## 月度日历
 
-### Template 1: Price Comparison (Most Viral Potential)
+### 8月 — 预热期（每周4-5条）
+
+**目标**：开始积累粉丝。这时候没人买，但大家已经开始幻想滑雪了。
+
+| 周 | 条数 | 内容创意 |
+|----|------|---------|
+| 第1周 | 4 | "POV: 你刚订了滑雪行程，现在要搞装备" / "给雪服品牌按价格排名 € 到 €€€€" / "为什么我再也不花€400买雪服了" / 品牌介绍：我们是谁，为什么做这个 |
+| 第2周 | 5 | "防水指数到底什么意思？（30秒讲清）" / "雪服行业冰山：品牌不想让你知道的事" / 幕后花絮：开箱工厂样品 / "第一次滑雪前我希望知道的事" / 热门音频+滑雪氛围短片 |
+| 第3周 | 4 | "滑雪怎么穿（不会过热的分层穿法）" / "POV: 朋友们花€500买装备，你花了€129" / 颜色揭晓：本季新品配色 / "€129雪服防水测试"（直接往上倒水） |
+| 第4周 | 5 | "2026/27滑雪打包清单" / 每日穿搭：全套雪服不到€250 / "你的雪服品牌说明了什么" / 粉丝投票：我们该出哪个颜色？ / 月度精华回顾 |
+
+**核心话题标签**：#skiseason #skitok #skiprep #skioutfit #winteriscoming
+
+### 9月 — 期待升温（每周5-6条）
+
+**目标**：把关注转化为邮箱订阅和网站访问。推早鸟价。
+
+| 周 | 条数 | 内容创意 |
+|----|------|---------|
+| 第1周 | 5 | "早鸟提醒：10月前全场85折" / "对比：我们€129的雪服 vs [竞品]€400的雪服" / "买任何雪服前要检查的3件事" / GRWM：滑雪出发前的准备 / 回复上个月的评论 |
+| 第2周 | 6 | "POV: 收到[BRANDNAME]包裹"（开箱） / "雪服的真实成本（品牌加价揭秘）" / 快速试穿所有颜色 / "我们把雪服放在雨里淋了2小时——结果是这样" / "欧洲预算滑雪去哪里" / 热门音频+滑雪内容 |
+| 第3周 | 5 | "€300以下的滑雪全套装备清单" / 细节特写：拉链、口袋、帽子、袖口 / "我们怎么做到这个价格（没有中间商，DTC模式解释）" / "给欧洲滑雪场打分" / 粉丝问答Q&A |
+| 第4周 | 5 | "早鸟价最后机会" / "你该选什么尺码？（尺码指南详解）" / 幕后花絮：我们怎么测试装备 / "10月要来了——你准备好了吗？"预告 / 月度回顾+最佳表现内容 |
+
+**核心话题标签**：#skigear #affordableskiwear #skiseason2027 #earlybird #skijacket
+
+### 10月 — 冲刺上线（每天发，每周7条）
+
+**目标**：卖货！这时候人们开始下单了。最大输出。
+
+| 周 | 条数 | 内容创意 |
+|----|------|---------|
+| 第1周 | 7 | 上线公告 / 第一条客户评价 / "为什么这是你唯一需要的雪服" / 3个品牌价格对比 / GRWM滑雪出行 / "本周免运费"推广 / 热门格式改编 |
+| 第2周 | 7 | "第一批客户收到包裹了！" / 开箱反应（真实或模拟） / "滑雪需要的10样东西" / 面料微距特写 / 社会证据：订单量里程碑 / "€150以下的雪具礼物指南" / 用户合拍/反应 |
+| 第3周 | 7 | "POV: 第一次穿[BRANDNAME]上雪道" / 用简单语言解释技术参数 / "黑五预告"先导片 / 转发客户照片/视频 / 节日礼物角度 / "怎么保养你的雪服" / 周末滑雪内容 |
+| 第4周 | 7 | 万圣节+滑雪内容 / "11月优惠即将来袭" / 评价汇总 / "为什么我们的客户从[竞品]转过来" / 幕后花絮：打包订单 / FAQ视频 / 周回顾 |
+
+### 11月 — 旺季巅峰（每天发，每周7-10条含快拍）
+
+**目标**：最大销量。黑五冲刺。
+
+- **第1-2周**：客户证言、真实滑雪视频、紧迫感文案
+- **第3周**：黑五预热内容（倒计时）
+- **第4周**：黑五 / 网一 大促——每天发2-3条
+  - "黑五：全场8折"
+  - "热门款正在快速售罄"
+  - "最后24小时" 倒计时
+
+### 12月 — 节日冲刺（每天发，每周7条）
+
+**目标**：礼物购买+最后一刻买家。
+
+- **第1-2周**："送TA一个雪道圣诞" 角度、"圣诞送达最后下单日期"
+- **第3周**："还来得及下单！" + 快递加急推广
+- **第4周**：圣诞内容、"新年滑雪行程准备"
+
+### 1月 — 新年冲刺（每周5-7条）
+
+**目标**：新年决心型滑雪者+1月促销。
+
+- "新年新雪道" 主题
+- 1月清仓："冬季特卖——最高75折"
+- 本季精选内容：真实客户滑雪片段
+- "计划你的2月滑雪之旅？"
+
+### 2月 — 尾声期（每周4-5条）
+
+**目标**：最后推一波+季末收尾。
+
+- "本季最后的装备机会"
+- 季末清仓促销
+- 感谢社区
+- 征集反馈："下一季你想看到什么产品？"
+- 预告："明年冬天见" + 邮箱订阅CTA
+
+### 3月 — 收尾阶段（每周2-3条）
+
+**目标**：最终清仓+收集用户反馈+开始策划下一季。
+
+- 最终清仓促销
+- "本季精彩瞬间" 合集
+- 客户感谢帖
+- 调查："明年你想看到什么？"
+
+---
+
+## 内容脚本模板
+
+> 以下脚本为英文（发布用），中文注释供理解参考。
+
+### 模板1：价格对比（最有可能爆的类型）
 
 ```
-[HOOK — first 1 second]
+[HOOK — 第1秒，抓注意力]
 "This €129 jacket vs this €400 jacket"
+（"这件€129的雪服 vs 这件€400的雪服"）
 
-[SHOW both jackets side by side]
-"Same waterproof rating — 10,000mm"
-"Same sealed seams"
-"Same YKK zippers"
+[展示两件雪服并排]
+"Same waterproof rating — 10,000mm"（防水指数一样）
+"Same sealed seams"（压胶一样）
+"Same YKK zippers"（YKK拉链一样）
 
-[CLOSE-UP of price tags]
+[特写价格标签]
 "The difference? One has a famous logo."
+（区别？一件有个大牌Logo。）
 
-[TEXT OVERLAY]
+[文字叠加]
 "Link in bio. [BRANDNAME].com"
 ```
 
-### Template 2: Unboxing
+### 模板2：开箱
 
 ```
 [HOOK]
 "My new ski jacket just arrived — let's see if it's actually good"
+（"我的新雪服到了——看看到底行不行"）
 
-[Open package, show packaging]
-"First impression... [react genuinely]"
+[拆包裹，展示包装]
+"First impression... [真实反应]"
+（"第一印象……"）
 
-[Try it on, show details]
+[试穿，展示细节]
 "Okay the waterproofing..."
-[Pour water on sleeve — it beads off]
+[往袖子上倒水——水珠滑落]
 "Yeah, this is legit."
+（"嗯，这个是真的。"）
 
-[Final outfit shot]
+[最终穿搭效果]
 "All this for €129. Link in bio."
+（"这一切只要€129。链接在简介里。"）
 ```
 
-### Template 3: GRWM (Get Ready With Me)
+### 模板3：GRWM（Get Ready With Me / 和我一起准备出门）
 
 ```
 [HOOK]
 "GRWM for a ski trip — full outfit under €250"
+（"滑雪出行GRWM——全套不到€250"）
 
-[Show each layer]
-"Base layer — €25 from Decathlon"
-"Mid layer — that fleece from last year"
-"Jacket — [BRANDNAME], €129"
-"Pants — [BRANDNAME], €89"
-"Total: €243 and I look THIS good"
+[展示每一层]
+"Base layer — €25 from Decathlon"（打底层——迪卡侬€25）
+"Mid layer — that fleece from last year"（中间层——去年那件抓绒）
+"Jacket — [BRANDNAME], €129"（雪服——[BRANDNAME]，€129）
+"Pants — [BRANDNAME], €89"（雪裤——[BRANDNAME]，€89）
+"Total: €243 and I look THIS good"（合计€243，我看起来这么帅/美）
 
-[Mirror check / outfit spin]
+[照镜子 / 转身展示]
 "See you on the slopes. Link in bio."
+（"雪道见。链接在简介里。"）
 ```
 
 ---
 
-## Hashtag Strategy
+## 话题标签策略
 
-### Primary (use on every post)
+### 核心标签（每条都用）
 `#skitok` `#skioutfit` `#skigear` `#skiseason2027` `#[brandname]`
 
-### Secondary (rotate based on content)
+### 轮换标签（根据内容选用）
 `#affordableskiwear` `#skijacket` `#skipants` `#skiwear` `#skitrip`
 `#apresski` `#powderday` `#skieurope` `#winterfashion`
 
-### Trending/Location (add when relevant)
+### 热门/地点标签（相关时添加）
 `#alps` `#frenchskiing` `#verbier` `#valthorens` `#chamonix`
 `#grwm` `#ootd` `#unboxing` `#haul` `#budgetfriendly`
 
 ---
 
-## Paid Ads Strategy (When Ready)
+## 付费投放策略（准备好后执行）
 
-**Budget**: Start with €10-20/day
-**Format**: Spark Ads (boost best-performing organic posts)
-**Targeting**:
-- Age: 18-35
-- Location: France, Ireland
-- Interests: Skiing, snowboarding, winter sports, outdoor activities
-- Lookalike audiences (once you have 100+ website visitors)
+**预算**：起步€10-20/天
+**格式**：Spark Ads（加推表现最好的自然流量视频）
+**定向人群**：
+- 年龄：18-35
+- 地区：法国、爱尔兰
+- 兴趣：滑雪、单板滑雪、冬季运动、户外活动
+- 相似受众 Lookalike（网站访客超过100人后开启）
 
-**Test creative**: Run 3-4 different videos as ads for 3 days each. Kill the ones with <1% CTR. Scale the winners.
+**测试素材**：同时投3-4条不同视频，每条跑3天。点击率（CTR）<1%的砍掉，表现好的加预算放量。
